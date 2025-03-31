@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "William Giammona's Resume",
   description: "William Giammona's Resume",
   icons: {
-    icon: "@/public/images/favicon.png",
+    icon: "/images/favicon.png",
   },
 };
 
